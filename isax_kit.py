@@ -37,7 +37,7 @@ VERSION = "1.0"
 AUTHOR = "Isaac"
 EFFECTS_ENABLED = True
 
-# ANSI theme: set EFFECTS_ENABLED to False for plain output or redirected logs.
+# ANSI theme: set EFFECTS_ENABLED to False for plain output or redirected logs. 
 RESET = "\033[0m"
 BLACK = "\033[30m"
 GREEN = "\033[92m"
